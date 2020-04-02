@@ -28,5 +28,5 @@
            "Arhey\\FaceDetection\\Tests\\": "tests"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
