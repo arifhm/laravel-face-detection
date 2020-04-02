@@ -28,7 +28,7 @@ class FaceDetection {
 
         $detection_file = 'src/Data/face.dat';
         if(function_exists('base_path')) {
-            $detection_file = base_path().'/vendor/freearhey/laravel-face-detection/src/Data/face.dat';
+            $detection_file = base_path().'/vendor/arifhm/laravel-face-detection/src/Data/face.dat';
         }
 
         if (is_file($detection_file)) {
