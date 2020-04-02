@@ -27,6 +27,5 @@
         "psr-4": {
            "Arhey\\FaceDetection\\Tests\\": "tests"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
